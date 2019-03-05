@@ -63,7 +63,7 @@ run project
 
 <img src="https://github.com/kellyad/graphql-mongodb-react-native/blob/master/screenshot/firstScreen.png"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/kellyad/graphql-mongodb-react-native/blob/master/screenShot/secondScreen.png"
+<img src="https://github.com/kellyad/graphql-mongodb-react-native/blob/master/screenshot/secondScreen.png"
 width="256">&nbsp;&nbsp;&nbsp;
 
  ### Tech Stack
